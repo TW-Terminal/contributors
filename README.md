@@ -1,2 +1,0 @@
-# contributors
-Contributors of TWT
